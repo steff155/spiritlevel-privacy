@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy – Simple Spirit Level</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      line-height: 1.6;
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p><strong>Last updated:</strong> July 2025</p>
+
+  <p>The app “Simple Spirit Level” does not collect any personal data. Some technical information (e.g. device model, operating system version) may be automatically collected by the platform (e.g. Google Play or the operating system).</p>
+
+  <h2>1. Advertising (optional)</h2>
+  <p>The app may contain ads in the future, such as banners or video ads. In this case, third-party providers like Google AdMob may collect information about your device and usage behavior to display personalized ads.</p>
+  <p>Data collection by such providers is subject to their respective privacy policies.</p>
+
+  <h2>2. No registration</h2>
+  <p>Using this app does not require any login or input of personal data.</p>
+
+  <h2>3. No storage of user data</h2>
+  <p>The app does not store any personal data on the device or in the cloud.</p>
+
+  <h2>4. Contact</h2>
+  <p>If you have questions about the privacy practices of this app, feel free to contact the developer:</p>
+  <p>Email: <a href="mailto:kempter.stefan@gmx.de">kempter.stefan@gmx.de</a></p>
+
+  <p>This policy will be updated accordingly if changes are made to the app.</p>
+
+  <hr>
+  <p>© 2025 Stefan Kempter</p>
+</body>
+</html>
