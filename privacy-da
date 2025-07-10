@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privatlivspolitik – Simple Spirit Level</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      line-height: 1.6;
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privatlivspolitik</h1>
+
+  <p><strong>Sidst opdateret:</strong> Juli 2025</p>
+
+  <p>Appen “Simple Spirit Level” indsamler ikke personlige data. Visse tekniske oplysninger (f.eks. enhedsmodel, operativsystemversion) kan automatisk blive indsamlet af platformen (f.eks. Google Play eller operativsystemet).</p>
+
+  <h2>1. Annoncering (valgfrit)</h2>
+  <p>Appen kan i fremtiden indeholde annoncer, f.eks. bannere eller videoannoncer. I så fald kan tredjepartsudbydere som Google AdMob indsamle oplysninger om din enhed og brugsmønster for at vise personlige annoncer.</p>
+  <p>Indsamling af data af sådanne udbydere er underlagt deres respektive privatlivspolitikker.</p>
+
+  <h2>2. Ingen registrering</h2>
+  <p>Det er ikke nødvendigt at oprette en konto eller angive personlige oplysninger for at bruge denne app.</p>
+
+  <h2>3. Ingen lagring af brugerdata</h2>
+  <p>Appen gemmer ikke personlige data på enheden eller i skyen.</p>
+
+  <h2>4. Kontakt</h2>
+  <p>Hvis du har spørgsmål om denne apps privatlivspraksis, er du velkommen til at kontakte udvikleren:</p>
+  <p>E-mail: <a href="mailto:kempter.stefan@gmx.de">kempter.stefan@gmx.de</a></p>
+
+  <p>Denne erklæring opdateres, hvis der sker ændringer i appen.</p>
+
+  <hr>
+  <p>© 2025 Stefan Kempter</p>
+</body>
+</html>
